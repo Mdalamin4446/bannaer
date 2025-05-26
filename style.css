@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: bolder;
+
+}
+button{
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-left: 300px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkolivegreen;
+}
